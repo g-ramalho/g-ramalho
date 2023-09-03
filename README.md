@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:011e33&height=300&section=header&text=Gabriel%20Ramalho&fontColor=fff&fontSize=60&fontAlign=70&fontAlignY=45)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=E1E1E1&width=435&lines=Hi+%F0%9F%91%8B;I'm+Gabriel+Ramalho;A+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=E1E1E1&width=435&lines=Hi+%F0%9F%91%8B;I'm+Gabriel+Ramalho;A+Back-end+Developer)](https://git.io/typing-svg)
 
 # Hard Skills
 
