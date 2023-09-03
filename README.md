@@ -10,7 +10,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![RUST](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
 
 ### Markup Languages
