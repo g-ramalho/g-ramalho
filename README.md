@@ -22,9 +22,3 @@
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![Spring Framework](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=white)
-
-___
-
-# Feel free to connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/gabriel-ramalho-982321206)
