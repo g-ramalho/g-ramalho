@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/g-ramalho/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">hello there 👋</h1>
 
 ###
